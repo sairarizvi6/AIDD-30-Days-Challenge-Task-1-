@@ -1,4 +1,4 @@
-# 🌟 AIDD 30-Days Challenge - Task 1
+# 🌟 AIDD 30-Days Challenge (Task-1)
 
 ## Q1:What does AI-Driven Development mean to me?
 ⚡In my opinion,**AI-Driven Development (AIDD)** means learning and building software with the help of powerful AI tools instead of doing everything manually.It feels like having an **intelligent partner** who can write code,fix bugs,explain errors and help me learn faster.
@@ -21,21 +21,28 @@ For me,the future is **not humans vs AI but humans + AI working as one team**.�
 
 ## ✅ MCQs — Correct Answers👉
 
-1️⃣ What is the main purpose of the AI-Native Era? 
+1️⃣ What is the main purpose of the AI-Native Era?
+
 b) **Empower developers through AI tools**.🤞 
+
 2️⃣ What defines an AI-driven developer?
+
 b) **Creates context-aware prompts**.🤞
-3️⃣ What does “AIDD” stand for? 
+
+3️⃣ What does “AIDD” stand for?
+
 b) **AI-Driven Development**.🤞
-4️⃣ What is the focus of Evaluation-Driven Development (EvDD)? 
+
+4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+
 b) **Evaluating and improving AI outputs**.🤞 
+
 5️⃣ What should developers focus on in the AI era? 
+
 b) **Building reasoning + evaluation skills**.🤞
+
 
 ### ✨ Summary
 AI-Driven Development is transforming the way we **learn,build and collaborate** in software development.⚡ 
 With humans and AI working together, the future of software is **faster,smarter and more innovative** than ever before.⚡
 
-Readable: Sections are separated clearly.
-
-GitHub-ready: Proper Markdown formatting works perfectly for README.md files.
